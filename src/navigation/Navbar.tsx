@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <div className="bg-zinc-950 h-fit w-[100%] ">
-    <nav className="fixed top-0 2xl:left-[10%] left-0 bg-zinc-950 border-b border-neutral-800 z-50 w-[100%] 2xl:w-[80%] ] ">
+    <nav className="fixed top-0 2xl:left-[10%] left-0 bg-zinc-950 border-b border-neutral-800 z-50 w-[100%] 2xl:w-[80%] p-1 ">
       <div className="container mx-auto flex h-16 items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Left Section: Navigation Links */}
         <ul
