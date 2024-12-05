@@ -19,7 +19,10 @@
     "@radix-ui/react-dialog": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/themes": "^3.1.6",
+    "@react-three/drei": "^9.120.0",
+    "@react-three/fiber": "^8.17.10",
     "@tailwindcss/typography": "^0.5.15",
+    "@types/three": "^0.170.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.460.0",
@@ -30,6 +33,7 @@
     "recharts": "^2.13.3",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
+    "three": "^0.171.0",
     "vaul": "^1.1.1"
   },
   "devDependencies": {

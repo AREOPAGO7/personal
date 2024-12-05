@@ -34,7 +34,7 @@ export function DrawerDemo() {
             <div className="   space-y-4">
           
              <Input placeholder="Email"></Input>
-             <Textarea placeholder="Message" className="mb-5"></Textarea>
+             <Textarea placeholder="Type your Message" className="mb-5"></Textarea>
 
             </div>
            
