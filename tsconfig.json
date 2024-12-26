@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,       // Allow default imports
+    "skipLibCheck": true,          // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true, // Ensure consistent casing
+    "jsx": "react-jsx",            // Enable React 17 JSX Transform
+    "moduleResolution": "node",    // Ensure module resolution is compatible with Node.js
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}

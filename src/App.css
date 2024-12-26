@@ -1,0 +1,11 @@
+body {
+  
+  font-family: 'Inter', sans-serif;
+}
+/* Apply Inter font globally */
+.wrapes {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  
+}
